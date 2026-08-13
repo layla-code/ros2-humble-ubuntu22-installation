@@ -166,4 +166,4 @@ If `humble` is displayed, ROS 2 Humble has been installed and configured success
 
 The following screenshot shows the successful ROS 2 Humble installation and verification:
 
-![ROS 2 Humble Verification](screenshot.png) 
+![ROS 2 Humble Verification](./Screenshot.png)
